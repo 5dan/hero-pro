@@ -1,0 +1,4 @@
+certifi==2015.11.20.1
+numpy==1.10.2
+gevent==1.0.2
+greenlet==0.4.9

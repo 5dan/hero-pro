@@ -1,0 +1,5 @@
+certifi
+numpy
+requests
+pyopenssl
+gevent
